@@ -8,7 +8,7 @@ I am Software Engineer. I love experimenting with new technologies and building 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvink96&theme=highcontrast&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/kelvink96/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvink96&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvink96&theme=highcontrast&layout=compact" />
 </a>
 
 <hr>
