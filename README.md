@@ -9,5 +9,5 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvink96&theme=highcontrast&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/kelvink96/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvink96t" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvink96&theme=highcontrast" />
 </a>
