@@ -1,18 +1,23 @@
-### Hi there 👋
+### Hi there 👋, It's Dhruv Prajapati here
+I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
 
-<!--
-**kelvink96/kelvink96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Working as a **CloudOps Engineer** in [Crest Data System](https://www.crestdatasys.com/a).
+- ☀️ Learning and Developing Machine Learning based projects in Python.
+- ✍️ Writing tech blog posts over Internet.
 
-Here are some ideas to get you started:
+[![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvink96)](https://github.com/kelvink96/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvink96&theme=highcontrast&show_icons=true&count_private=true)
 
-[![Kelvin Kiptum's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvink96)](https://github.com/kelvink96/github-readme-stats)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvink96)
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kelvink96&repo=kelvink96)](https://github.com/yourusername/kelvink96)
+
+[![Kelvin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kelvink96&layout=compact)](https://github.com/kelvink96/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
