@@ -1,5 +1,5 @@
 ### Hi there, I'm Kelvin Kiptum 👋
-I am Software Engineer. I love experimenting with new technologies and building small projects.
+I am Software Engineer. I love experimenting with new technologies.
 - 🏫 I’m currently learning [React](https://reactjs.org/) 
 - 💬 Ask me about anything [here](https://github.com/kelvink96/kelvink96/issues)
 
