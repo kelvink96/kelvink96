@@ -1,7 +1,7 @@
 ### Hi there, I'm Kelvin Kiptum 👋
 I am Software Engineer. I love experimenting with new technologies and building small projects.
 
-- 🏫 I’m currently learning <a href='https://reactjs.org/' target='_blank'>React
+- 🏫 I’m currently learning <a href='https://reactjs.org/' target='_blank'>React</a>
 - 💬 Ask me about anything <a href='https://github.com/kelvink96/kelvink96/issues' target='_blank'>here</a>
 
 <a href="https://github.com/kelvink96/github-readme-stats">
