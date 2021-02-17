@@ -3,10 +3,9 @@ I am Software Engineer. I love experimenting with new technologies and building 
 - 🏫 I’m currently learning [React](https://reactjs.org/) 
 - 💬 Ask me about anything [here](https://github.com/kelvink96/kelvink96/issues)
 
-##
+
 [![](https://github-readme-stats.vercel.app/api?username=kelvink96&theme=yeblu&show_icons=true&count_private=true) ](https://github.com/kelvink96/github-readme-stats)
-##
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvink96&theme=yeblu&layout=compact)](https://github.com/kelvink96/github-readme-stats) 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvink96&theme=yeblu&layout=default)](https://github.com/kelvink96/github-readme-stats) 
 
 * * *
 
