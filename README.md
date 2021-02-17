@@ -1,5 +1,8 @@
-### Hi there 👋, it's Kelvink Kiptum here
+### Hi there, I'm Kelvin Kiptum 👋
 I am Software Engineer. I love experimenting with new technologies and building small projects.
+
+- 🏫 I’m currently learning <a href='https://reactjs.org/' target='_blank'>React
+- 💬 Ask me about anything <a href='https://github.com/kelvink96/kelvink96/issues' target='_blank'>here</a>
 
 <a href="https://github.com/kelvink96/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvink96&theme=highcontrast&show_icons=true&count_private=true" />
