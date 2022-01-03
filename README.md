@@ -1,6 +1,6 @@
 ### Hi there, I'm Kelvin Kiptum 👋
 I am Software Engineer. I love experimenting with new technologies.
-- 🏫 I’m currently learning [React](https://reactjs.org/) 
+- 🏫 I’m currently learning [React](https://reactjs.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) 
 - 💬 Ask me about anything [here](https://github.com/kelvink96/kelvink96/issues)
 
 ##
