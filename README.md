@@ -1,6 +1,7 @@
 ## Hi there, I'm Kelvin Kiptum 👋
 I am a Software Engineer. I love experimenting with new technologies.
-- 🏫 I’m currently learning [React](https://reactjs.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Python](https://www.python.org/), [K8]('https://kubernetes.io/')
+- 🏫 I’m currently learning [React](https://reactjs.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Python](https://www.python.org/), 
+[K8](https://kubernetes.io/)
 - 💬 Ask me about anything [here](https://github.com/kelvink96/kelvink96/issues)
 
 ### Let's connect and chat_
