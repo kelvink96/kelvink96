@@ -2,7 +2,7 @@
 I am a Software Engineer. I love experimenting with new technologies.
 - 🏫 I’m currently learning [React](https://reactjs.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Python](https://www.python.org/), 
 [K8](https://kubernetes.io/)
-- 💬 Ask me about anything [here](https://github.com/kelvink96/kelvink96/issues)
+- 💬 Ask me about anything [here](https://github.com/kelvink96/kelvink96/discussions/1)
 
 ### Let's connect and chat_
 [![Twitter](https://user-images.githubusercontent.com/26582923/161824449-27ae496c-9e25-42d2-828f-3598a5e48c7b.png "Twitter")](https://twitter.com/kelvink_96 "Twitter")
