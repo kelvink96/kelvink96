@@ -6,8 +6,7 @@ With a rich background in software engineering, I've honed my skills in crafting
 
 I'm not just a developer; I'm an enthusiastic pioneer, constantly seeking the next big thing in tech. Let's not just talk about ideas; let's bring them to life together. I'm thrilled at the opportunity to apply my passion and skills at Alternate Limited.
 
-- 🏫 I’m currently learning [React](https://reactjs.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Python](https://www.python.org/), 
-[K8](https://kubernetes.io/)
+- 🏫 I’m currently learning Next.js, K8
 - 💬 Ask me about anything [here](https://github.com/kelvink96/kelvink96/discussions/1)
 
 ### Let's connect and chat_
