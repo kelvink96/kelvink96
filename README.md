@@ -1,5 +1,11 @@
 ## Hi there, I'm Kelvin Kiptum 👋
-I am a Software Engineer. I love experimenting with new technologies.
+
+Hey there, I'm Kelvin, a dynamic software engineering graduate on a mission to turn creative sparks into seamless applications. My passion lies in the art of technological experimentation, where I dive fearlessly into the uncharted waters of new technologies. Picture me as a digital alchemist, weaving simplicity into complex ideas.
+
+With a rich background in software engineering, I've honed my skills in crafting intuitive solutions. I revel in the challenge of translating innovative concepts into user-friendly applications that not only work but delight. What truly fuels my drive is the prospect of transforming the way we experience technology, one line of code at a time.
+
+I'm not just a developer; I'm an enthusiastic pioneer, constantly seeking the next big thing in tech. Let's not just talk about ideas; let's bring them to life together. I'm thrilled at the opportunity to apply my passion and skills at Alternate Limited.
+
 - 🏫 I’m currently learning [React](https://reactjs.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Python](https://www.python.org/), 
 [K8](https://kubernetes.io/)
 - 💬 Ask me about anything [here](https://github.com/kelvink96/kelvink96/discussions/1)
