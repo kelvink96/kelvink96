@@ -32,6 +32,9 @@ Check out my open source projects here - [Design Sparx](https://github.com/desig
 ![icons8_react_native_24px](https://user-images.githubusercontent.com/26582923/161826475-b74a4e3b-8c85-450c-b1b2-93bb6f1de32c.png)
 ![icons8_firebase_24px](https://user-images.githubusercontent.com/26582923/161826559-39fe25a0-f548-4627-961c-22a2dc8e9fcd.png)
 ![icons8_bootstrap_24px](https://user-images.githubusercontent.com/26582923/161826652-54422dfa-1b23-446a-b5d5-484ebc125bd6.png)
+![Next js](https://github.com/kelvink96/kelvink96/assets/26582923/706658d3-81a1-4b38-b01b-2824143d1113)
+![JQuery_1](https://github.com/kelvink96/kelvink96/assets/26582923/b10b0872-627a-4879-afb0-543b8405eaae)
+![Ember_1](https://github.com/kelvink96/kelvink96/assets/26582923/8b3b1f4c-6617-4359-bff0-50e3bc23bcf4)
 
 ***
 
