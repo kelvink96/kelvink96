@@ -1,6 +1,6 @@
-## Hi there, I'm Kelvin Kiptum 👋
+## Hey there, I'm Kelvin Kiptum 👋
 
-Hey there, I'm Kelvin, a dynamic software engineering graduate on a mission to turn creative sparks into seamless applications. My passion lies in the art of technological experimentation, where I dive fearlessly into the uncharted waters of new technologies. Picture me as a digital alchemist, weaving simplicity into complex ideas.
+I'm a dynamic software engineering graduate on a mission to turn creative sparks into seamless applications. My passion lies in the art of technological experimentation, where I dive fearlessly into the uncharted waters of new technologies. Picture me as a digital alchemist, weaving simplicity into complex ideas.
 
 With a rich background in software engineering, I've honed my skills in crafting intuitive solutions. I revel in the challenge of translating innovative concepts into user-friendly applications that not only work but delight. What truly fuels my drive is the prospect of transforming the way we experience technology, one line of code at a time.
 
