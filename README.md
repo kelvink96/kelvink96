@@ -21,7 +21,7 @@ Enthusiastic pioneer, constantly seeking the next big thing in tech. Eager to ap
 - [jQuery](https://jquery.com/)
 
 ## Notable open-source projects I've built
-- [mantine dashboard](https://github.com/design-sparx/mantine-analytics-dashboard) - A theme customizable dashboard template built using Mantine and Nextjs featuring 3 dashboard variants, custom error and auth pages.To add components such as Mantine data table, Apex charts, Dndkit, Tiptap, Embal carousel, React simple maps, Full calendar, and Tabler icons.
+- [mantine-analytics-dashboard](https://github.com/design-sparx/mantine-analytics-dashboard) - A theme customizable dashboard template built using Mantine and Nextjs featuring 3 dashboard variants, custom error and auth pages.To add components such as Mantine data table, Apex charts, Dndkit, Tiptap, Embal carousel, React simple maps, Full calendar, and Tabler icons.
 - [antd-multipurpose-dashboard](https://github.com/design-sparx/antd-multipurpose-dashboard) - A dynamic and versatile multipurpose dashboard utilizing Ant Design, React, TypeScript, Vite and Storybook. With 7 dashboard variants, 3+ error pages, and 5+ auth pages.
 - [hospital-admin](https://github.com/kelvink96/hospital-admin) - A hospital admin dashboard template built using Bootstrap, HTML, CSS, JavaScript, jQuery and Line icons.
 - [meal-mart](https://meal-mart.netlify.app/) - Meal delivery website template built using Nextjs, Mantine & TypeScript.
