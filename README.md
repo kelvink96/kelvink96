@@ -58,6 +58,11 @@ Please send me an email at the address listed in my GitHub profile to schedule a
 
 💬 Ask me about anything [here](https://github.com/kelvink96/kelvink96/discussions/1)
 
+***
+
+## Roadmap.sh
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6560afb05145316d256759b3?variant=dark)](https://roadmap.sh)
+
 ## Github Stats
 [![](https://github-readme-stats.vercel.app/api?username=kelvink96&theme=yeblu&show_icons=true&count_private=true) ](https://github.com/kelvink96/github-readme-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvink96&theme=yeblu&layout=compact)](https://github.com/kelvink96/github-readme-stats) 
