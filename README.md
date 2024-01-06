@@ -7,7 +7,7 @@ Enthusiastic pioneer, constantly seeking the next big thing in tech. Eager to ap
 ## Tech stack
 - Typescript/JavaScript
 - Node.js
-- React/Next.js/Vite, but I'm also learning about [Ember.js](https://emberjs.com/) and [Redwood.js](https://redwoodjs.com/)
+- React/Next.js/Vite
 - React UI libraries I've been working with:
   - [Bootstrap](https://getbootstrap.com/)
   - [Mantine](https://mantine.dev/)
@@ -19,6 +19,9 @@ Enthusiastic pioneer, constantly seeking the next big thing in tech. Eager to ap
 - CSS/SASS/SCSS
 - [Jade/Pug](https://pugjs.org/api/getting-started.html)
 - [jQuery](https://jquery.com/)
+
+### Currently learning
+- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 
 ## Notable open-source projects I've built
 - [mantine-analytics-dashboard](https://github.com/design-sparx/mantine-analytics-dashboard) - A theme customizable dashboard template built using Mantine and Nextjs featuring 3 dashboard variants, custom error and auth pages.To add components such as Mantine data table, Apex charts, Dndkit, Tiptap, Embal carousel, React simple maps, Full calendar, and Tabler icons.
