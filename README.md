@@ -58,12 +58,14 @@ Check out more of my open source projects here - [Design Sparx](https://github.c
 
 <details>
   <summary>How to approach me</summary>
+  
   ## How to approach me
   Please send me an email at the address listed in my GitHub profile to schedule a meeting using my calendar at [cal.com/kelvink96](https://cal.com/kelvink96).
 </details>
 
 <details>
-  <summary>Socials</summary>
+<summary>Socials</summary>
+  
   ## Socials
   [![Twitter](https://user-images.githubusercontent.com/26582923/161824449-27ae496c-9e25-42d2-828f-3598a5e48c7b.png "Twitter")](https://twitter.com/kelvink_96 "Twitter")
   [![LinkedIn](https://user-images.githubusercontent.com/26582923/161824990-2852597d-d5e1-418f-ad91-0e0163f6e862.png "LinkedIn")](https://www.linkedin.com/in/kelvink96/ "LinkedIn")
@@ -77,6 +79,7 @@ Check out more of my open source projects here - [Design Sparx](https://github.c
 
 <details>
   <summary>Github Stats</summary>
+  
   ## Github Stats
   [![](https://github-readme-stats.vercel.app/api?username=kelvink96&theme=yeblu&show_icons=true&count_private=true) ](https://github.com/kelvink96/github-readme-stats)
   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvink96&theme=yeblu&layout=compact)](https://github.com/kelvink96/github-readme-stats) 
@@ -84,6 +87,7 @@ Check out more of my open source projects here - [Design Sparx](https://github.c
 
 <details>
   <summary>Roadmap.sh</summary>
+  
   ## Roadmap.sh
   [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6560afb05145316d256759b3?variant=dark)](https://roadmap.sh)
 </details>
