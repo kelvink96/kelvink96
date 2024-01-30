@@ -1,8 +1,8 @@
 ## Hey there, I'm Kelvin Kiptum 👋
 
-A dynamic software engineering graduate from Nairobi, Kenya with 5+ years of experience. Passionate about turning creative sparks into seamless applications through technological experimentation. Experienced in crafting intuitive solutions and translating innovative concepts into user-friendly applications. Thrives on transforming the way we experience technology, one line of code at a time.
+A dynamic software engineering graduate with 5+ years of experience. Passionate about turning creative sparks into seamless applications through technological experimentation. Experienced in crafting intuitive solutions and translating innovative concepts into user-friendly applications. Thrives on transforming the way we experience technology, one line of code at a time.
 
-Enthusiastic pioneer, constantly seeking the next big thing in tech. Eager to apply my passion and skills at Alternate Limited to bring ideas to life.
+Enthusiastic pioneer, constantly seeking the next big thing in tech. Eager to apply my passion and skills to bring your ideas to life.
 
 ## Tech stack
 - Typescript/JavaScript
