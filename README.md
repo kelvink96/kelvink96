@@ -1,6 +1,6 @@
 ## Hey there, I'm Kelvin Kiptum 👋
 
-A dynamic software engineering graduate with 5+ years of experience, adept at transforming creative sparks into seamless applications through technological experimentation. Skilled in crafting intuitive solutions and translating innovative concepts into user-friendly applications. Thrives on reshaping technology experiences one line of code at a time. Enthusiastic pioneer always seeking the next big thing in tech, eager to apply passion and skills to bring your ideas to life.
+A dynamic software engineering graduate with 6+ years of experience, adept at transforming creative sparks into seamless applications through technological experimentation. Skilled in crafting intuitive solutions and translating innovative concepts into user-friendly applications. Thrives on reshaping technology experiences one line of code at a time. Enthusiastic pioneer always seeking the next big thing in tech, eager to apply passion and skills to bring your ideas to life.
 
 <details>
   <summary>Tech Stack</summary>
